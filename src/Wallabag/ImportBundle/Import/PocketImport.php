@@ -125,7 +125,6 @@ class PocketImport implements ImportInterface
         return true;
     }
 
-
     /**
      * Set whether articles must be all marked as read.
      *
