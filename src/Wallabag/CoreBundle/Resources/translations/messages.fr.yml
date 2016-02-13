@@ -189,6 +189,8 @@ Please select your wallabag export and click on the below button to upload and i
 File: "Fichier"
 Upload file: "Importer le fichier"
 Import contents: "Importer les contenus"
+Mark all as read ?: "Marquer tout comme lu ?"
+Mark all imported entries as read: "Marquer tous les contenus importés comme lus"
 
 # Quickstart
 Welcome on wallabag!: "Bienvenue sur wallabag !"
